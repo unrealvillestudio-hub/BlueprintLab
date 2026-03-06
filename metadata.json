@@ -1,0 +1,5 @@
+{
+  "name": "UNRLVL - BlueprintLab",
+  "description": "Central registry for creating, editing, validating and exporting Blueprints (Person, Location, Product) for consumption by ImageLab, VideoLab and VoiceLab.",
+  "requestFramePermissions": []
+}
